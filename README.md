@@ -19,7 +19,7 @@ Before you begin, ensure that the following software is installed on your machin
 3. Run the following command to clone the project:
 
    ```bash
-   git clone[ <[repository-url](https://github.com/kogomatthew/filamentphp-tall-stack.git)>](https://github.com/kogomatthew/filamentphp-tall-stack.git)
+   git clone https://github.com/kogomatthew/filamentphp-tall-stack.git
    ``` 
 
 ## Installing Dependencies
@@ -58,9 +58,9 @@ Before you begin, ensure that the following software is installed on your machin
 
 1. Run the following command to create a new user account for Filament PHP:
 
-   ```bash
+  ```bash
   php artisan make:filament-user 
-   ```
+  ```
 
    This will prompt you to enter a name, email address, and password for the new user account.
 
