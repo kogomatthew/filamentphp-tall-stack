@@ -53,6 +53,13 @@ Before you begin, ensure that the following software is installed on your machin
    ```
 
    This will create the required tables in the database.
+   
+ 5. (Optional) Seed test data
+
+   ```bash
+   php artisan db:seed
+   ```
+
 
 ## Running Filament PHP 
 
