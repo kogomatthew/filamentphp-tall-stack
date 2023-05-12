@@ -1,4 +1,4 @@
-# Cloning, Installing Dependencies, and Running a TallStack Project Locally
+# Cloning, Installing Dependencies, and Running the Project Locally
 
 This guide outlines the steps required to clone a TallStack project from a remote repository, install its dependencies using Composer and npm, migrate the database, and run it locally on your machine. It also includes a guide for running Filament PHP, which is a Laravel package that provides a set of pre-built admin interfaces.
 
