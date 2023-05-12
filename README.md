@@ -19,10 +19,8 @@ Before you begin, ensure that the following software is installed on your machin
 3. Run the following command to clone the project:
 
    ```bash
-   git clone <repository-url>
-   ```
-
-   Replace `<repository-url>` with the URL of the remote repository that you want to clone.
+   git clone[ <[repository-url](https://github.com/kogomatthew/filamentphp-tall-stack.git)>](https://github.com/kogomatthew/filamentphp-tall-stack.git)
+   ``` 
 
 ## Installing Dependencies
 
