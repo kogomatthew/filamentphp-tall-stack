@@ -86,5 +86,5 @@ Before you begin, ensure that the following software is installed on your machin
 
 2. Once the application has started, open a web browser and navigate to `http://localhost:8000` to view the application.
 
-## Building for Production
-
+## For more info
+[Filamentphp Documentation]([https://www.google.com/](https://filamentphp.com/docs/2.x/admin/installation))
